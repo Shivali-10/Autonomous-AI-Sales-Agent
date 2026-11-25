@@ -1,0 +1,11 @@
+.env
+__pycache__/
+.pytest_cache/
+*.pyc
+*.pyo
+.venv/
+venv/
+data/sales_agent.db
+data/faiss_index/
+*.log
+.DS_Store
